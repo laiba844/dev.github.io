@@ -1,0 +1,118 @@
+body
+{
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(241, 237, 231);
+}
+.navbar
+{
+    margin: 0px;
+    padding: 0px;
+    
+    
+    
+}
+ul
+{
+   list-style-type: none;
+   margin: 0px;
+   padding: 0px;
+ 
+}
+ul li
+{
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 20px;
+    
+    
+   
+}
+
+ul li a
+{
+    text-decoration: none;
+   color: black;
+    padding: 0px;
+    
+    
+  
+}
+/* ul li a:hover
+{
+    color: black;
+    background-color: bisque;
+    border: 1px solid goldenrod;
+    border-radius: 12px;
+
+} */
+.nav-item 
+{
+    font-size: 20px;
+}
+.banner-img
+{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    height: 680px;
+}
+.box1
+{
+    font-size: 80px;
+    
+}
+/* .icn
+{
+    border: 15px solid blue;
+    border-radius: 30%;
+} */
+.btn
+{
+    border: 2px solid darkred;
+}
+.card 
+{
+    border-radius: 10px;
+    border: 1px solid lightpink;
+}
+.icon
+{
+    font-size: 60px;
+    border: 5px solid blue;
+    border-radius: 50%;
+}
+.b1
+{
+    font-size: 60px;
+    border: 5px solid white;
+    border-radius: 50%;
+
+}
+.pp
+{
+    height: 350px;
+}
+.work
+{
+    background-color: rgb(3, 3, 44);
+    height: auto;
+}
+
+.icon:hover{
+    color: white;
+    background-color: blue;
+    border: solid 10px #CDE1F8;
+}
+.con
+{
+    background-color: blue;
+    height: auto;
+
+}
+input
+{
+    border: 2px solid rgb(6, 10, 150);
+}
+textarea
+{
+    border: 2px solid rgb(6, 10, 150);
+}
